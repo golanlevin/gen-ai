@@ -119,12 +119,14 @@ Now:
 
 *(5 hours • 30% • Due Tuesday 1/28)*
 
+<img src="img/warhol_buchanan_screen_test.gif" width="640">
+
 In this project, you are asked to create an augmented, animated self-portrait — i.e., a living image *of your alter-ego and your familiars*, as you appear in the beyond.
 
 Using RunwayML (and optionally, MidJourney), 
 
-* **Create** your "Character Reference Input" — i.e. what your alter-ego looks like. In the Matrix movies, they call this the "[Residual Self Image](https://www.youtube.com/watch?v=4EYWQT3PNNE)". What does your inner self look like? Perhaps you are simply more stylish, or perhaps you are a fluffy green blob with three eyes. You must **create** your alter-ego-image (for example, by altering an image of yourself with MidJourney, or by making something from scratch). *You may not use a celebrity or pop-culture character*.
-* **Record** a video of yourself that is 10-20 seconds long. Runway calls this the "Driving Performance". In making this video, **keep your action to a minimum.** You're making a "living portrait" — not action video. The inspirations here are things like Andy Warhol's [Screen Tests](https://www.youtube.com/playlist?list=PLiqP_ZkHvXVoczgn0SvgOgybYxm1qAE49), [Cinemagraphs](https://cinemagraphs.com/), Potter-style [magical portraits](https://www.harrypotter.com/features/how-do-magical-portraits-actually-work), and Bill Viola's [Quintet of the Astonished](https://www.youtube.com/watch?v=nSlMgPXOkmk) ([alt](https://vimeo.com/15130088)). To enhance the quality of your AI transformation, consider wearing (real) augmentations like a costume, wig, makeup, etc. Give consideration to whether or not you're looking towards or away from the camera.  
+* **Create** your "Character Reference Input" — i.e. what you imagine your alter-ego or inner self looks like. In the Matrix movies, they call this the "[Residual Self Image](https://www.youtube.com/watch?v=4EYWQT3PNNE)". Perhaps you are simply more stylish, or perhaps you are a fluffy green blob with three eyes. You must **create** your alter-ego-image (for example, by altering an image of yourself with MidJourney, or by making something from scratch). *You may not use a celebrity image or pop-culture character*.
+* **Record** a video of yourself that is 10-20 seconds long. Runway calls this the "Driving Performance". In making this video, **keep your action to a minimum.** You're making a "living portrait" — not action video. The inspirations here are things like [Cinemagraphs](https://cinemagraphs.com/), Andy Warhol's [Screen Tests](https://www.youtube.com/playlist?list=PLiqP_ZkHvXVoczgn0SvgOgybYxm1qAE49), Hogwarts-style [magical portraits](https://www.harrypotter.com/features/how-do-magical-portraits-actually-work), and Bill Viola's [Quintet of the Astonished](https://www.youtube.com/watch?v=nSlMgPXOkmk) ([alt](https://vimeo.com/15130088)). To enhance the quality of your AI transformation, consider wearing (real) augmentations like a costume, wig, makeup, etc. Give consideration to whether or not you're looking towards or away from the camera.  
 * **You'll likely use Runway's** [**Act-One Character**](https://www.youtube.com/watch?v=gQPDleluVz8) puppeteering tool. There are tutorial videos [here](https://www.youtube.com/watch?v=20qOocKN2TM) and [here](https://www.youtube.com/watch?v=gQPDleluVz8), and there is some helpful documentation [here](https://help.runwayml.com/hc/en-us/articles/33927968552339-Creating-with-Act-One-on-Gen-3-Alpha-and-Turbo). 
 * **Feel free to create a tableau that includes one or more of your "familiars"**. This might mean entities like your Imaginary Friend, Totem, Muse Figure, Shadow Self, Future Self, Inner Child, Memory Phantom, Inner Critic or Ally, Parasitic Doubt Creature, Lost Friends or Family (Spectral Companions), Emotional Echo, Personal Deity, Guardian Entity, etc.
 * **Export** your video self-portrait from Runway. It may be possible to **export** your self-portrait video [in HD resolution](https://help.runwayml.com/hc/en-us/articles/26115194070675-Can-I-generate-videos-in-4k) from Runway (we'll look into this). 
@@ -134,6 +136,6 @@ Using RunwayML (and optionally, MidJourney),
 
 ---
 
-EOF
+*EOF*
 
 
