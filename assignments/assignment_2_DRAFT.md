@@ -18,6 +18,3 @@ Read up about the term until you feel like you understand what it is. If the glo
 ---
 
 
-This is not a computer science class, and this is not a filmmaking course. I'm not here to make you into powerusers of the next Adobe; Lynda.com will help you do that with whatever tools are current when you graduate.
-
-This is not a hard class. I want to give you time to tinker. 
