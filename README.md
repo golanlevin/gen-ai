@@ -3,17 +3,23 @@
 Art and Generative AI, Spring 2025 (60-228)<br />
 Prof. Golan Levin, CMU School of Art
 
+---
+
+## Key Links
+
+* The Syllabus can be found [here](https://github.com/golanlevin/gen-ai/blob/main/syllabus/readme.md)
+* 
 
 
 ---
 
 ## Assignments and Due Dates
 
-* `Tue 01/14`: 
-* `Thu 01/16`:
-* `Tue 01/21`: Assignment 1: Vid2Vid (Self-Introduction)
+* `Tue 01/14`: --
+* `Thu 01/16`: Due: [1.1](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#11-administrative-tasks), [1.2](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#12-report-an-ai-art-you-like), [1.3](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#13-looking-outwards-algorithms-models-tools), [1.4](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#14-viewing---response)
+* `Tue 01/21`: Due: [1.5](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#15-wrong-things), [1.6](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#16-puppet-conditioning)
 * `Thu 01/23`: *Work session (Golan away)*. 
-* `Tue 01/28`: 
+* `Tue 01/28`: Due: [1.7](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#17-dreamworld-self-portrait)
 * `Thu 01/30`: 
 * `FEB -----`
 * `Tue 02/04`: 
@@ -34,9 +40,9 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 03/25`: 
 * `Thu 03/27`: 
 * `APR -----`
-* `Tue 04/01`: 
+* `Tue 04/01`: Due: 5.1 (Final Project Proposal)
 * `Thu 04/03`: *No session (Spring Carnival)*
-* `Tue 04/08`: Assignment 5a: Final Project Proposal.
+* `Tue 04/08`: 
 * `Tue 04/10`: 
 * `Tue 04/15`: 
 * `Tue 04/17`: 

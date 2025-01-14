@@ -17,7 +17,7 @@ This Assignment has seven components, due on various days before the end of Janu
 *(30 minutes • 10% • Due Thursday 1/16)*
 
 * **Read** our [**Syllabus**](https://github.com/golanlevin/gen-ai/blob/main/syllabus/readme.md) carefully and thoroughly!
-* **Join** our course Discord using [**this invite**](https://discord.gg/rx73UhZQ).
+* **Join** our course Discord using the invite provided in email.
 * It's not strictly *required*, but you are strongly advised to **purchase** an external hard drive, such as one of [these](https://www.amazon.com/gp/product/B08GTYFC37/?th=1), so that you can manage your assets.
 * **Complete** this [**Welcome Questionnaire**](https://docs.google.com/forms/d/e/1FAIpQLSdkT9jPxIGM16AjDhbXfszIoZXy3NpjDNkr5D5HWfPLLRXKfw/viewform?usp=sharing). My plan is to use this Questionnaire to help design this course, and tune it to your skills and interests. Thus, note that this Questionnaire asks some fairly involved questions, such as "What is an Assignment you would like to have in this class?", that I ask you to complete in good faith.
 * **Introduce** yourself! In the Discord channel `1-1-introductions`, **write** a couple of sentences about who you are and why you're interested in this course. Optionally, feel free to **embed** an image or **include** a link to some of your work. 
