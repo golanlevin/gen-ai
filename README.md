@@ -8,7 +8,10 @@ Prof. Golan Levin, CMU School of Art
 ## Key Links
 
 * The Syllabus can be found [here](https://github.com/golanlevin/gen-ai/blob/main/syllabus/readme.md)
-* 
+
+## Daily Notes
+
+* `Tue 01/14` [Hello](daily_notes/0114.md)
 
 
 ---
