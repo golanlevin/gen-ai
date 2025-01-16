@@ -136,6 +136,7 @@ Using RunwayML (and optionally, MidJourney),
 
 References: 
 
+* [Trisha Code's videos](https://www.youtube.com/watch?v=yEq6EaHtiIo)
 * [Jess MacCormack's portraits](https://x.com/musicalnetta/status/1871606217027801598)
 * [Karen X. Cheng's self-portrait workflow](https://x.com/karenxcheng/status/1760735202484343228)
 
