@@ -119,7 +119,7 @@ Now:
 
 *(5 hours • 30% • Due Tuesday 1/28)*
 
-<img src="img/warhol_buchanan_screen_test.gif" width="640">
+
 
 In this project, you are asked to create an augmented, animated self-portrait — i.e., a living image *of your alter-ego and your familiars*, as you appear in the beyond.
 
@@ -133,6 +133,11 @@ Using RunwayML (and optionally, MidJourney),
 * **Consider** adding an ambient soundtrack. Sound is encouraged but not required. 
 * **Upload** your video to YouTube and set its visibility to *Unlisted*. 
 * **Create** a Discord post in the channel, `1-7-selfportrait`. In your post, **write** 100-150 words about your project and your process, including some critical self-reflection. **Embed** a still image of your project. **Link** to your YouTube video. 
+
+References: 
+
+* [Jess MacCormack's portraits](https://x.com/musicalnetta/status/1871606217027801598)
+* [Karen X. Cheng's self-portrait workflow](https://x.com/karenxcheng/status/1760735202484343228)
 
 ---
 
