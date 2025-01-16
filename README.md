@@ -12,7 +12,7 @@ Prof. Golan Levin, CMU School of Art
 ## Daily Notes
 
 * `Tue 01/14` [Hello](daily_notes/0114.md)
-
+* `Thu 01/14` [Hello II](daily_notes/0116.md)
 
 ---
 
