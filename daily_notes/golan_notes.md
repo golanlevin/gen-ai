@@ -2,13 +2,14 @@
 
 ---
 
+
 ### Gohai's p5-to-Comfy realtime toolchain:
 
 * This toolchain by Gottfried Haider (Gohai) uses the Comfy API (with Dev Mode) to process images that are transmitted via WebSockets: [https://github.com/gohai/p5.comfyui-helper](https://github.com/gohai/p5.comfyui-helper)
 * Gohai's Inpainting [p5 sketch](https://editor.p5js.org/gohai/sketches/x_nkT_dBx) & [duplicate](https://editor.p5js.org/golan/sketches/d8KmJ3t2A)
 * According to Gohai, we'll need the following: 
   * Enable *Dev Mode* (get to Settings using small cog in ComfyUI remote control panel)
-  * Install `comfyui-tooling-nodes`
+  * Install `comfyui-tooling-nodes`. Note: It MAY be possible to use [https://github.com/LyazS/comfyui-nettools](https://github.com/LyazS/comfyui-nettools) instead of `comfyui-tooling-nodes`.
   * To access ComfyUI remotely: `--listen 0.0.0.0 --enable-cors-header`
   * Load a provisioned certificate into ComfyUI with `--tls-keyfile privkey.pem --tls-certfile fullchain.pem`
 
