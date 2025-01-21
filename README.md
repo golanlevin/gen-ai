@@ -12,7 +12,8 @@ Prof. Golan Levin, CMU School of Art
 ## Daily Notes
 
 * `Tue 01/14` [Hello](daily_notes/0114.md)
-* `Thu 01/14` [Hello II](daily_notes/0116.md)
+* `Thu 01/16` [Hello II](daily_notes/0116.md)
+* `Tue 01/21` [The Reimagined Body](daily_notes/0121.md)
 
 ---
 
@@ -26,31 +27,33 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 01/30`: 
 * `FEB -----`
 * `Tue 02/04`: 
-* `Thu 02/06`: 5:30-7:00pm: Ken Goldberg Guest Lecture. 
+* `Thu 02/06`: Assignments #2 Due; 5:30-7:00pm: Ken Goldberg Guest Lecture. 
 * `Tue 02/11`: 
 * `Thu 02/13`: 
 * `Tue 02/18`: 
 * `Thu 02/20`: 
 * `Tue 02/25`: 
-* `Thu 02/27`: 
+* `Thu 02/27`: Assignments #3a Due.
 * `MAR -----`
 * `Tue 03/04`: *No session (Spring Break)*
 * `Thu 03/06`: *No session (Spring Break)*
 * `Tue 03/11`: 
-* `Thu 03/13`: 
+* `Thu 03/13`: Assignments #3b Due.
 * `Tue 03/18`: 
 * `Thu 03/20`: 
 * `Tue 03/25`: 
 * `Thu 03/27`: 
 * `APR -----`
-* `Tue 04/01`: Due: 5.1 (Final Project Proposal)
+* `Tue 04/01`: Assignments #4 Due.
 * `Thu 04/03`: *No session (Spring Carnival)*
 * `Tue 04/08`: 
 * `Tue 04/10`: 
 * `Tue 04/15`: 
 * `Tue 04/17`: 
 * `Tue 04/22`: 
-* `Tue 04/24`: 
+* `Tue 04/24`: Assignments #5 Draft Due. 
 * `---------`
 * *On or prior to 05/05: Final Project Presentations.*
+
+![Assignment Schedule](syllabus/schedule.png)
 
