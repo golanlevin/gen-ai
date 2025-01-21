@@ -18,3 +18,33 @@
 * Where to get the ComfyUI server url so you can access ComfyUI remotely, [https://comfyui-guides.runcomfy.com/ultimate-comfyui-how-tos-a-runcomfy-guide/how-to-call-the-comfyui-api-on-a-runcomfy-machine](https://comfyui-guides.runcomfy.com/ultimate-comfyui-how-tos-a-runcomfy-guide/how-to-call-the-comfyui-api-on-a-runcomfy-machine)
 * How to interact with ComfyUI API, [https://comfyui-guides.runcomfy.com/ultimate-comfyui-how-tos-a-runcomfy-guide/working-with-comfyui-backend-api](https://comfyui-guides.runcomfy.com/ultimate-comfyui-how-tos-a-runcomfy-guide/working-with-comfyui-backend-api)
 * please see this part of code and this is how we implement the custom node for RunComfy: [https://github.com/InceptionsAI/ComfyUI-RunComfy-Helper/blob/main/helpers/workflow.py](https://github.com/InceptionsAI/ComfyUI-RunComfy-Helper/blob/main/helpers/workflow.py)
+
+Installing `comfyui-tooling-nodes`:
+
+* ComfyUI Manager, Install via Git:
+* https://github.com/Acly/comfyui-tooling-nodes.git
+* "This action is not allowed with this security level configuration."
+* Advice here: https://comfyui-guides.runcomfy.com/ultimate-comfyui-how-tos-a-runcomfy-guide/how-to-fix-this-action-is-not-allowed-with-this-security-level-configuration
+* Inside the Assets file browser, go to ComfyUI > custom_nodes > ComfyUI-Manager and find the config.ini file.
+* Double-click on the config.ini. This will open the file in a simple text editor. Now you can config the manager.
+* Change security_level to weak at the bottom of the file.
+* Click the floppy disk icon in upper right to save the change. Close that editor.
+* Once you finish editing config.ini, you need to restart the ComfyUI by clicking the top left Restart Comfy button (NOT restart the machine!). This should take a few seconds.
+* For good measure, refresh the browser page.
+* Click, Add Node, "External Tooling", Load Image b64...
+
+Working with ComfyUI Backend API:
+
+[https://comfyui-guides.runcomfy.com/ultimate-comfyui-how-tos-a-runcomfy-guide/working-with-comfyui-backend-api](https://comfyui-guides.runcomfy.com/ultimate-comfyui-how-tos-a-runcomfy-guide/working-with-comfyui-backend-api)
+
+From henlee from RunComfy: 
+```
+import websocket
+import uuid
+
+ws = websocket.WebSocket()
+ws.connect("ws://{}/ws?clientId={}".format('yyyyyyy-yyyy-yyyy-yyyyyyyyyyyy-comfyui.runcomfy.com', client_id))
+while True:
+    out = ws.recv()
+    print(out)
+```
