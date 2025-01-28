@@ -27,8 +27,8 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 01/30`: 
 * `FEB -----`
 * `Tue 02/04`: 
-* `Thu 02/06`: Assignments #2 Due; 5:30-7:00pm: Ken Goldberg Guest Lecture. 
-* `Tue 02/11`: 
+* `Thu 02/06`: Assignments #2 Due.
+* `Tue 02/11`: Sam Lavigne class visit. 
 * `Thu 02/13`: 
 * `Tue 02/18`: 
 * `Thu 02/20`: 
