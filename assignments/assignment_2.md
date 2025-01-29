@@ -6,22 +6,23 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 
 ## 2.1. Technical Overview of Stable Diffusion
 
-*20 minutes, due Thursday 1/30.* 
+*20 minutes, due Thursday 1/30. There is no deliverable for this exercise, but it's still important.*
 
-* **Watch** [*How Do Diffusion Models like Midjourney and Stable Diffusion Work?*](https://www.youtube.com/watch?v=BWUApLkLH-8) by Derrick Schultz, **AND/OR**
-* **Read** [*Bare-Bones Diffusion Models*](https://madebyoll.in/posts/dino_diffusion/) by Ollin Boer Bohan, and **play** with his interactive demonstration [here](https://madebyoll.in/posts/dino_diffusion/demo/)
+* **Watch** [*How Do Diffusion Models like Midjourney and Stable Diffusion Work?*](https://www.youtube.com/watch?v=BWUApLkLH-8) (19 minutes) by Derrick Schultz, **AND/OR**
+* **Read** [*Bare-Bones Diffusion Models*](https://madebyoll.in/posts/dino_diffusion/) by Ollin Boer Bohan, and **play** with his interactive demonstration [here](https://madebyoll.in/posts/dino_diffusion/demo/).
+
 
 ---
 
 ## 2.2. ComfyUI Ecosystem Exploration 
 
-*40 minutes, due Thursday 1/30.*
+*40 minutes, due Thursday 1/30. A very tiny written report is required.*
 
 * **Browse** the RunComfy [readymade workflows](https://www.runcomfy.com/comfyui/)
 * **Browse** the models available [at Civitai](https://civitai.com/models) (*content warning!*)
 * **Browse** the 6000+ [ComfyUI Extensions & Nodes](https://www.runcomfy.com/comfyui-nodes) available at RunComfy
 
-**View/skim** these resources: 
+**View/skim** the following resources. Make a mental note about the one(s) you think might be useful for you: 
 
 * [Beginner's Guide to ComfyUI](https://aituts.com/comfyui/)
 * [ComfyUI Shortcuts](https://blenderneko.github.io/ComfyUI-docs/Interface/Shortcuts/)
@@ -39,10 +40,8 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 
 *Now,*
 
-* In the Discord channel `2-2-ComfyResources`, **report** on something you came across that you found intriguing: **Describe** it in a sentence, and, if possible, **include** a link and image. 
+* In the Discord channel `2-2-ComfyResources`, briefly **report** on something you came across that you found intriguing: **Describe** it in a sentence or two, and, if possible, **include** a link and image. **Write** a sentence about why you found it interesting. 
 
-
----
 
 <!--
 
