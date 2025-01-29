@@ -37,12 +37,14 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 * [Derrick Schultz YouTube Tutorials](https://www.youtube.com/watch?v=NoB1E3nZnUk&list=PLWuCzxqIpJs8e8fET1QP96tWngqlsoIZu&index=2)
 * [Purz ComfyUI YouTube Channel](https://www.youtube.com/@PurzBeats) (now on Patreon)
 
-*NOW,*
+*Now,*
 
 * In the Discord channel `2-2-ComfyResources`, **report** on something you came across that you found intriguing: **Describe** it in a sentence, and, if possible, **include** a link and image. 
 
 
 ---
+
+<!--
 
 ## 2.3. Toe-Dipping in ComfyUI
 
@@ -57,6 +59,8 @@ In this simple exercise you will do some controlled experiments with the ComfyUI
   * **Experiment** with difrerent numbers of steps
   * **Experiment** with different denoising values
 * In the Discord channel `2-3-ComfyTest`, **report** on your findings. A sentence or two is sufficient. **Provide** an image showing some of your findings.
+
+--> 
 
 <!-- 
 https://medium.com/@promptingpixels/how-to-add-a-lora-to-your-workflow-in-comfyui-b5635cd7a8aa

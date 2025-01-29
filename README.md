@@ -24,7 +24,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 01/21`: Due: [1.5](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#15-wrong-things), [1.6](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#16-puppet-conditioning)
 * `Thu 01/23`: *Work session (Golan away)*. 
 * `Tue 01/28`: Due: [1.7](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#17-dreamworld-self-portrait)
-* `Thu 01/30`: 
+* `Thu 01/30`: Due: [2.1](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#21-technical-overview-of-stable-diffusion) and [2.2](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#22-comfyui-ecosystem-exploration) 
 * `FEB -----`
 * `Tue 02/04`: 
 * `Thu 02/06`: Assignments #2 Due.
