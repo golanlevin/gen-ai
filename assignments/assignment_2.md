@@ -1,12 +1,22 @@
 # Assignment Set #2: Building Systems with ComfyUI
 
-This Unit will culminate in the creation of a **custom imaging system** in ComfyUI, due on Thursday, February 6.
+This Unit will culminate in the creation of a **custom imaging system** in ComfyUI, due on Thursday, February 6. (Possibly moving to Tuesday 2/11). 
+
+* 2.1. Technical Overview of Stable Diffusion *(20 minutes, due Thursday 1/30)*
+* 2.2. ComfyUI Ecosystem Exploration *(40 minutes, due Thursday 1/30)*
+* 2.3. Readings *(30 minutes, due 2/4)*
+* 2.4. Helpful Viewings *(30 minutes, due 2/4)*
+* 2.5. Image Analysis with Comfy *(60 minutes (?), due 2/4)*
+* 2.6. Style Transfer + Upscaling in Comfy *(60 minutes (?), due 2/4)*
+
 
 ---
 
 ## 2.1. Technical Overview of Stable Diffusion
 
-*20 minutes, due Thursday 1/30. There is no deliverable for this exercise, but it's still important.*
+### *(20 minutes, due Thursday 1/30)*
+
+*There is no deliverable for this exercise, but it's still important.*
 
 * **Watch** [*How Do Diffusion Models like Midjourney and Stable Diffusion Work?*](https://www.youtube.com/watch?v=BWUApLkLH-8) (19 minutes) by Derrick Schultz, **AND/OR**
 * **Read** [*Bare-Bones Diffusion Models*](https://madebyoll.in/posts/dino_diffusion/) by Ollin Boer Bohan, and **play** with his interactive demonstration [here](https://madebyoll.in/posts/dino_diffusion/demo/).
@@ -16,7 +26,7 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 
 ## 2.2. ComfyUI Ecosystem Exploration 
 
-*40 minutes, due Thursday 1/30. A very tiny written report is required.*
+### *(40 minutes, due Thursday 1/30)*
 
 * **Browse** the RunComfy [readymade workflows](https://www.runcomfy.com/comfyui/)
 * **Browse** the models available [at Civitai](https://civitai.com/models) (*content warning!*)
@@ -57,73 +67,87 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 
 ---
 
-## 2.4. Worky Work
+## 2.4. Helpful Viewings
 
 ### *(30 minutes, due 2/4)*
 
-Here are some helpful viewings to give you some valuable ComfyUI instruction. Please do these.
+Here are some helpful viewings to give you some valuable ComfyUI instruction. Please do these; later work will make use of this information.
 
-* [Upload Base Models to RunComfy](https://www.youtube.com/watch?v=dOCTwnrWi7g) (13 minute video)
 * [Intro to the ComfyUI Manager](https://www.youtube.com/watch?v=4M_R1heWGWs) (9 minute video)
+* [Upload Base Models to RunComfy](https://www.youtube.com/watch?v=dOCTwnrWi7g) (13 minute video)
 * [How to Add a LoRa to Your Workflow in ComfyUI](https://medium.com/@promptingpixels/how-to-add-a-lora-to-your-workflow-in-comfyui-b5635cd7a8aa) (4 minute read)
 
 ---
 
-## 2.5. Simple Comfy Tests
+## 2.5. Image Analysis with Comfy
 
-In this simple exercise I ask you to do some controlled experiments with the ComfyUI default patch. 
+### *(60 minutes (?), due 2/4)*
 
-* At RunComfy.com, **load** the default patch ("Purple Galaxy Bottle"). Change the prompt according to your preferences.
-* **Experiment** with different base models. At the bare minimum I encourage you to try the difference between SD 1.5 and SDXL, but try other models that are available in RunComfy as well.
-* For these experiments, **modify** the `seed` value so that it is held constant, and then: 
-  * **Experiment** with different samplers
-  * **Experiment** with different numbers of steps
-  * **Experiment** with different denoising values
-* In the Discord channel `2-4-ComfyTests`, **report** on your findings. A sentence or two is sufficient. **Provide** images showing some of your findings.
+![3_image_depth_and_segmentation_sm.png](workflows/3_image_depth_and_segmentation_sm.png)
+
+Your jobs in this exercise are: 
+
+1. to **get** a provided workflow working, 
+2. to make sure you **understand** all of its components, and
+3. to **speculate** (or perhaps even experiment!) about how you might use its results.
+
+You are here provided with the following resources:
+ 
+* a ComfyUI **workflow**, in the form of a workflow-PNG: [3_image_depth_and_segmentation_sm.png](workflows/3_image_depth_and_segmentation_sm.png) (also shown above). This PNG contains a ComfyUI network in its metadata. 
+* the same workflow [in a **JSON** file format](workflows/3_image_depth_and_segmentation.json), just in case you have any problems using the workflow-PNG. 
+* a high-resolution **input image** of an elephant, [original_rgb.png](img/original_rgb.png).
+* a **tutorial document** which explains in detail how to get this working, [located here](https://github.com/golanlevin/60-212/blob/main/lectures/comfy/image_analysis/readme.md) — *just skip the final part about using the results in p5.js.*
+
+The provided workflow does the following things: 
+
+* It **resizes** the input image to a smaller size, 640 pixels across;
+* It uses the *Florence2* custom node to **detect the bounding box** of the elephant; 
+* It uses the *SAM2Segmentation* custom node to **create a segmentation mask** of the elephant;
+* It uses the *DepthAnythingV2* custom node to **estimate a depth-image** of the elephant.
+
+*Now, do the following:*
+
+* **Load the workflow-PNG** into RunComfy, so that the node network is loaded. 
+* Missing nodes will be marked in red. **Install the missing nodes** using the Manager. (Remember to restart the Comfy server and refresh your browser after doing so.)
+* **Run** the network, and **ensure** that it's working. 
+* **Carefully examine** the network. **Ensure** you know what each node does. **Ensure** you know why it is connected the way it is. If you don't understand what a node is doing, **research** information about it.
+* **Swap in an input image of your own.** Compute its depth-estimation image, and the segmentation-image of its main subject.  
+* **Give a holler** in the `haaaalp` channel if something isn't working!
+* **Make a post** in the `2-5-image-analysis` channel in Discord.
+* In the post, **upload** your original image, its depth image, and its segmentation image.
+* In the post, **write** a sentence or two about how you might *use* the depth image and/or the segmentation image for further operations *within ComfyUI*. What might you *do* with these things? How could they be helpful, or allow you to do interesting things? 
 
 
 ---
 
-## 2.6. ComfyUI IPAdapter Plus Tutorial
+## 2.6. Style Transfer + Upscaling in Comfy
 
-The ComfyUI IPAdapter Plus custom node allows you to do single-image style transfer: Creating "image X in the style of image Y". In this exercise, I ask you to get the IPAdapter Plus node working, and use it to make an image that interests you. 
+
+### *(60 minutes (?), due 2/4)*
+
+In this exercise, you will use 2 custom nodes (IPAdapter Plus and Ultimate Upscaler) — in order to make a high-resolution version of a style-transfer image. Use these to make an image that interests you: 
+
+1. The *IPAdapter Plus* node allows you to do **single-image style transfer**: Creating "image X in the style of image Y".
+2. The *Ultimate Upscaler* node... upscales images! Use it to create a high-res version of your style-transferred result. 
 
 ![ipadapter-overview.png](img/ipadapter-overview.png)
 
 ![ipadapter.png](img/ipadapter.png)
 
-* Follow this tutorial, ["A Detailed Guide to Mastering ComfyUI IPAdapter Plus (IPAdapter V2)"](https://www.runcomfy.com/tutorials/comfyui-ipadapter-plus-deep-dive-tutorial). You can determine which parts of this tutorial are relevant to you, but I recommend especially part 6, "Style and Composition", shown above.
-* **Note** that you will need to use the ComfyUI Manager to install some custom nodes, including ComfyUI IPAdapter Plus. 
-* **Use** IPAdapter Plus to generate a style transfered image. 
-* **Use** Ultimate Upscaler (another custom node) to upscale your result! [Here's a video about how to do that](https://www.youtube.com/watch?v=CxB47DMEyYQ)
+* First, **follow** this tutorial, ["A Detailed Guide to Mastering ComfyUI IPAdapter Plus (IPAdapter V2)"](https://www.runcomfy.com/tutorials/comfyui-ipadapter-plus-deep-dive-tutorial). Feel free to determine which parts of this tutorial are relevant to you (you don't have to do *all* of it) —  but I recommend especially part 6, "Style and Composition", shown above. The main idea is for you to use the *IPAdapter Plus* node.
+* **Note** that you will likely need to use the ComfyUI Manager to install the special custom nodes. (After you install the custom node(s), remember to restart the RunComfy server and refresh your browser page!)
+* **Use** the IPAdapter Plus node to generate a style transferred image. 
+* Then, **use** Ultimate Upscaler to upscale your result! [Here's a video about how to do that](https://www.youtube.com/watch?v=CxB47DMEyYQ).
+* **Export and save** a copy of your workflow to your laptop — ideally, as a workflow-PNG. 
 * **Create** a post in the Discord channel `#2-6-ipadapter`
-* **Upload** both your style image and your result (generated) image.
-* **Write** a sentence or two about your process and/or what you learned or noticed. 
+* In the post, **upload** your style reference image, and your (upscaled) generated image.
+* In the post, **upload** your workflow-PNG, if you have one. 
+* In the post, **write** a sentence or two about your process, and/or what you learned or noticed.
+
 
 ---
 
 # MORE TBA. 
-
-<!--
-
-In this exercise we will use the ComfyUI Manager to install some custom nodes. Skim the following articles: 
-
-* [A Guide to ComfyUI Custom Nodes](https://www.bentoml.com/blog/a-guide-to-comfyui-custom-nodes)
-* [Recommended Custom Node Plugins for ComfyUI](https://comfyui-wiki.com/en/resource/custom-nodes) 
-* [Top ComfyUI custom node packs](https://modal.com/blog/comfyui-custom-nodes)
-
-* ComfyUI Essentials
-* ComfyUI Impact Pack
-* ComfyUI Inspire Pack
-* ComfyUI WAS Suite
-* ComfyUi IPAdapter Plus
-* KJNodes for ComfyUI
-* RGThree Node Pack 
-* SeargeSDXL
-
--->
-
-
 
 
 
