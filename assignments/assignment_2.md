@@ -42,29 +42,95 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 
 * In the Discord channel `2-2-ComfyResources`, briefly **report** on something you came across that you found intriguing: **Describe** it in a sentence or two, and, if possible, **include** a link and image. **Write** a sentence about why you found it interesting. 
 
+---
 
-<!--
+## 2.3. Readings
 
-## 2.3. Toe-Dipping in ComfyUI
+### *(30 minutes, due 2/4)*
 
-*30 minutes, due Thursday 1/30.*
+* Briefly **read** these three articles:
+  1. Reading: [Will AI ever be able to write a good song?](https://www.theredhandfiles.com/considering-human-imagination-the-last-piece-of-wilderness-do-you-think-ai-will-ever-be-able-to-write-a-good-song/), by Nick Cave
+  2. Reading: [The Algorithmic Gaze: Representations of Women in AI Art](https://www.lerandom.art/editorial/the-algorithmic-gaze-representations-of-women-in-ai-art), by Danielle King
+  3. Reading: [Unnatural Images: On AI-Generated Photographs](https://www.journals.uchicago.edu/doi/10.1086/731729), by Amanda Wasielewski
+* **Create** a post in the Discord channel, `2-3-readings`
+* In your post, **write** a brief response to something that stuck with you from the reading. 
 
-In this simple exercise you will do some controlled experiments with the ComfyUI default patch. 
+---
+
+## 2.4. Worky Work
+
+### *(30 minutes, due 2/4)*
+
+Here are some helpful viewings to give you some valuable ComfyUI instruction. Please do these.
+
+* [Upload Base Models to RunComfy](https://www.youtube.com/watch?v=dOCTwnrWi7g) (13 minute video)
+* [Intro to the ComfyUI Manager](https://www.youtube.com/watch?v=4M_R1heWGWs) (9 minute video)
+* [How to Add a LoRa to Your Workflow in ComfyUI](https://medium.com/@promptingpixels/how-to-add-a-lora-to-your-workflow-in-comfyui-b5635cd7a8aa) (4 minute read)
+
+---
+
+## 2.5. Simple Comfy Tests
+
+In this simple exercise I ask you to do some controlled experiments with the ComfyUI default patch. 
 
 * At RunComfy.com, **load** the default patch ("Purple Galaxy Bottle"). Change the prompt according to your preferences.
 * **Experiment** with different base models. At the bare minimum I encourage you to try the difference between SD 1.5 and SDXL, but try other models that are available in RunComfy as well.
 * For these experiments, **modify** the `seed` value so that it is held constant, and then: 
   * **Experiment** with different samplers
-  * **Experiment** with difrerent numbers of steps
+  * **Experiment** with different numbers of steps
   * **Experiment** with different denoising values
-* In the Discord channel `2-3-ComfyTest`, **report** on your findings. A sentence or two is sufficient. **Provide** an image showing some of your findings.
+* In the Discord channel `2-4-ComfyTests`, **report** on your findings. A sentence or two is sufficient. **Provide** images showing some of your findings.
 
---> 
 
-<!-- 
-https://medium.com/@promptingpixels/how-to-add-a-lora-to-your-workflow-in-comfyui-b5635cd7a8aa
--->
+---
+
+## 2.6. ComfyUI IPAdapter Plus Tutorial
+
+The ComfyUI IPAdapter Plus custom node allows you to do single-image style transfer: Creating "image X in the style of image Y". In this exercise, I ask you to get the IPAdapter Plus node working, and use it to make an image that interests you. 
+
+![ipadapter-overview.png](img/ipadapter-overview.png)
+
+![ipadapter.png](img/ipadapter.png)
+
+* Follow this tutorial, ["A Detailed Guide to Mastering ComfyUI IPAdapter Plus (IPAdapter V2)"](https://www.runcomfy.com/tutorials/comfyui-ipadapter-plus-deep-dive-tutorial). You can determine which parts of this tutorial are relevant to you, but I recommend especially part 6, "Style and Composition", shown above.
+* **Note** that you will need to use the ComfyUI Manager to install some custom nodes, including ComfyUI IPAdapter Plus. 
+* **Use** IPAdapter Plus to generate a style transfered image. 
+* **Use** Ultimate Upscaler (another custom node) to upscale your result! [Here's a video about how to do that](https://www.youtube.com/watch?v=CxB47DMEyYQ)
+* **Create** a post in the Discord channel `#2-6-ipadapter`
+* **Upload** both your style image and your result (generated) image.
+* **Write** a sentence or two about your process and/or what you learned or noticed. 
 
 ---
 
 # MORE TBA. 
+
+<!--
+
+In this exercise we will use the ComfyUI Manager to install some custom nodes. Skim the following articles: 
+
+* [A Guide to ComfyUI Custom Nodes](https://www.bentoml.com/blog/a-guide-to-comfyui-custom-nodes)
+* [Recommended Custom Node Plugins for ComfyUI](https://comfyui-wiki.com/en/resource/custom-nodes) 
+* [Top ComfyUI custom node packs](https://modal.com/blog/comfyui-custom-nodes)
+
+* ComfyUI Essentials
+* ComfyUI Impact Pack
+* ComfyUI Inspire Pack
+* ComfyUI WAS Suite
+* ComfyUi IPAdapter Plus
+* KJNodes for ComfyUI
+* RGThree Node Pack 
+* SeargeSDXL
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
