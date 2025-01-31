@@ -49,3 +49,12 @@ while True:
     out = ws.recv()
     print(out)
 ```
+
+
+---
+
+https://artificial-images.com/project/chroma01-ai-art-model-chromatography
+
+https://medium.com/@promptingpixels/how-to-add-a-lora-to-your-workflow-in-comfyui-b5635cd7a8aa
+
+https://civitai.com/models/train

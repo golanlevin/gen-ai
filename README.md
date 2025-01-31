@@ -1,6 +1,6 @@
 # gen-ai
 
-Art and Generative AI, Spring 2025 (60-228)<br />
+**Art and Generative AI, Spring 2025** (60-228)<br />
 Prof. Golan Levin, CMU School of Art
 
 ---
@@ -14,6 +14,10 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 01/14` [Hello](daily_notes/0114.md)
 * `Thu 01/16` [Hello II](daily_notes/0116.md)
 * `Tue 01/21` [The Reimagined Body](daily_notes/0121.md)
+* `Thu 01/23` *No session, Golan away*
+* `Tue 01/28` [Intro to Stable Diffusion](daily_notes/0128.md)
+* `Thu 01/30` [Intro to ComfyUI](daily_notes/0130.md)
+* `Tue 02/04` [ComfyUI II: LoRA](daily_notes/0204.md)
 
 ---
 
@@ -24,10 +28,10 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 01/21`: Due: [1.5](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#15-wrong-things), [1.6](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#16-puppet-conditioning)
 * `Thu 01/23`: *Work session (Golan away)*. 
 * `Tue 01/28`: Due: [1.7](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_1.md#17-dreamworld-self-portrait)
-* `Thu 01/30`: Due: [2.1](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#21-technical-overview-of-stable-diffusion) and [2.2](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#22-comfyui-ecosystem-exploration) 
+* `Thu 01/30`: Due: [2.1](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#21-technical-overview-of-stable-diffusion), [2.2](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#22-comfyui-ecosystem-exploration) 
 * `FEB -----`
-* `Tue 02/04`: 
-* `Thu 02/06`: Assignments #2 Due.
+* `Tue 02/04`: Due: [2.3](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#23-readings), [2.4](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#24-helpful-viewings), [2.5](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#25-image-analysis-with-comfy), [2.6](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#26-style-transfer--upscaling-in-comfy)
+* `Thu 02/06`: Assignments #2 Due (*probably moving to 2/11*)
 * `Tue 02/11`: Sam Lavigne class visit. 
 * `Thu 02/13`: 
 * `Tue 02/18`: 
@@ -44,7 +48,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 03/25`: 
 * `Thu 03/27`: 
 * `APR -----`
-* `Tue 04/01`: Assignments #4 Due.
+* `Tue 04/01`: Assignments #4 Due. Kyle McDonald class visit.
 * `Thu 04/03`: *No session (Spring Carnival)*
 * `Tue 04/08`: 
 * `Tue 04/10`: 
