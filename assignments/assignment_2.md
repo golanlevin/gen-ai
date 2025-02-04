@@ -8,7 +8,7 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 * 2.4. Helpful Viewings *(30 minutes, due 2/4)*
 * 2.5. Image Analysis with Comfy *(60 minutes (?), due 2/4)*
 * 2.6. Style Transfer + Upscaling in Comfy *(60 minutes (?), due 2/4)*
-
+* 2.7. A Generative System in Comfy *(6 hours, due 2/11)*
 
 ---
 
@@ -147,7 +147,16 @@ In this exercise, you will use 2 custom nodes (IPAdapter Plus and Ultimate Upsca
 
 ---
 
-# MORE TBA. 
+## 2.7. A Generative System in Comfy *(6 hours, due 2/11)*
+
+* **Research** custom Comfy nodes that do interesting things. 
+* **Create** a generative system using ComfyUI. Use it to create at least 3 outputs. It's OK to adapt a pre-existing workflow, but you might learn more by starting from scratch. 
+* **Create** a post in the Discord channel `#2-7-system`. 
+* **Write** a paragraph about what your project is/does. Include some text acknowledging credit to custom nodes that you used, and/or workflows that you adapted.
+* **Include** embedded image(s) and/or links to an unlisted YouTube video.
+* **Include** an exported workflow-PNG.
+
+
 
 
 

@@ -31,8 +31,8 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 01/30`: Due: [2.1](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#21-technical-overview-of-stable-diffusion), [2.2](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#22-comfyui-ecosystem-exploration) 
 * `FEB -----`
 * `Tue 02/04`: Due: [2.3](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#23-readings), [2.4](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#24-helpful-viewings), [2.5](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#25-image-analysis-with-comfy), [2.6](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#26-style-transfer--upscaling-in-comfy)
-* `Thu 02/06`: Assignments #2 Due (*probably moving to 2/11*)
-* `Tue 02/11`: Sam Lavigne class visit. 
+* `Thu 02/06`: *Work session.*
+* `Tue 02/11`: Assignments #2 Due. Sam Lavigne class visit. 
 * `Thu 02/13`: 
 * `Tue 02/18`: 
 * `Thu 02/20`: 
