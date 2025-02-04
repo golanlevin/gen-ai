@@ -59,5 +59,5 @@ Prof. Golan Levin, CMU School of Art
 * `---------`
 * *On or prior to 05/05: Final Project Presentations.*
 
-![Assignment Schedule](syllabus/schedule.png)
+![Assignment Schedule](syllabus/schedule-new.png)
 
