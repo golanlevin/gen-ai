@@ -18,6 +18,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 01/28` [Intro to Stable Diffusion](daily_notes/0128.md)
 * `Thu 01/30` [Intro to ComfyUI](daily_notes/0130.md)
 * `Tue 02/04` [ComfyUI II: LoRA](daily_notes/0204.md)
+* `Thu 02/06` [ConfyUI Worksession](daily_notes/0206.md)
 
 ---
 
@@ -32,7 +33,7 @@ Prof. Golan Levin, CMU School of Art
 * `FEB -----`
 * `Tue 02/04`: Due: [2.3](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#23-readings), [2.4](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#24-helpful-viewings), [2.5](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#25-image-analysis-with-comfy), [2.6](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#26-style-transfer--upscaling-in-comfy)
 * `Thu 02/06`: *Work session.*
-* `Tue 02/11`: [Assignment 2.7 (System)](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#27-a-generative-system-in-comfy-6-hours-due-211) Due. Sam Lavigne class visit. 
+* `Tue 02/11`: [**Assignment 2.7 (System)**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#27-a-generative-system-in-comfy-6-hours-due-211) Due. Sam Lavigne class visit (8:00pm). 
 * `Thu 02/13`: 
 * `Tue 02/18`: 
 * `Thu 02/20`: 
