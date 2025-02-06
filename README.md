@@ -18,7 +18,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 01/28` [Intro to Stable Diffusion](daily_notes/0128.md)
 * `Thu 01/30` [Intro to ComfyUI](daily_notes/0130.md)
 * `Tue 02/04` [ComfyUI II: LoRA](daily_notes/0204.md)
-* `Thu 02/06` [ConfyUI Worksession](daily_notes/0206.md)
+* `Thu 02/06` [ComfyUI Worksession](daily_notes/0206.md)
 
 ---
 
