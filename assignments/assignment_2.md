@@ -8,7 +8,7 @@ This Unit will culminate in the creation of a **custom imaging system** in Comfy
 * 2.4. Helpful Viewings *(30 minutes, due 2/4)*
 * 2.5. Image Analysis with Comfy *(60 minutes (?), due 2/4)*
 * 2.6. Style Transfer + Upscaling in Comfy *(60 minutes (?), due 2/4)*
-* 2.7. A Generative System in Comfy *(6 hours, due 2/11)*
+* 2.7. A Generative System in ComfyUI *(6 hours, due 2/11)*
 
 ---
 
@@ -147,19 +147,21 @@ In this exercise, you will use 2 custom nodes (IPAdapter Plus and Ultimate Upsca
 
 ---
 
-## 2.7. A Generative System in Comfy *(6 hours, due 2/11)*
+## 2.7. A Generative System in ComfyUI 
 
-* **Research** custom Comfy nodes that do interesting things. 
-* **Create** a generative system using ComfyUI. Use it to create at least 3 outputs. It's OK to adapt a pre-existing workflow, but you might learn more by starting from scratch. 
-* **Create** a post in the Discord channel `#2-7-system`. 
+*(6 hours, due 2/11)*
+
+* **Research** custom ComfyUI nodes that do interesting things.
+* **Create** a generative system using ComfyUI. **Use** it to create at least 3 outputs. (It's OK to adapt a pre-existing workflow, but you may learn more by starting from scratch.) 
+* **Feel welcome** to incorporate or combine your outputs into some sort of formal or conceptual meta-structure, such as a deck of cards, mini-book, triptych, grid-based display (small multiple / typology), single-purpose Instagram channel, etc.
+* **Create** a post in the Discord channel, `#2-7-system`.
 * **Write** a paragraph about what your project is/does. Include some text acknowledging credit to custom nodes that you used, and/or workflows that you adapted.
-* **Include** embedded image(s) and/or links to an unlisted YouTube video.
+* **Include** embedded image(s) and/or links to project media (such as an unlisted YouTube video, Dropbox file, PDF, etc.).  
 * **Include** an exported workflow-PNG.
 
+---
 
-
-
-
+EOF
 
 
 
