@@ -19,6 +19,7 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 01/30` [Intro to ComfyUI](daily_notes/0130.md)
 * `Tue 02/04` [ComfyUI II: LoRA](daily_notes/0204.md)
 * `Thu 02/06` [ComfyUI Worksession](daily_notes/0206.md)
+* `Tue 02/11` [Sam Lavigne visit](daily_notes/0211.md)
 
 ---
 
