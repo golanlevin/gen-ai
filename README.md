@@ -20,6 +20,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 02/04` [ComfyUI II: LoRA](daily_notes/0204.md)
 * `Thu 02/06` [ComfyUI Worksession](daily_notes/0206.md)
 * `Tue 02/11` [Sam Lavigne visit](daily_notes/0211.md)
+* `Thu 02/13` [Project Presentations Continued; intro to Unit 3](daily_notes/0213.md)
 
 ---
 
@@ -36,7 +37,7 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 02/06`: *Work session.*
 * `Tue 02/11`: [**Assignment 2.7 (System)**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_2.md#27-a-generative-system-in-comfy-6-hours-due-211) Due. Sam Lavigne class visit (8:00pm). 
 * `Thu 02/13`: 
-* `Tue 02/18`: 
+* `Tue 02/18`: Due [3.0-3.3](assignments/assignment_3.md)
 * `Thu 02/20`: 
 * `Tue 02/25`: 
 * `Thu 02/27`: Assignments #3a Due.
