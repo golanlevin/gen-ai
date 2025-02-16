@@ -59,19 +59,19 @@ In [*Making AI Art Responsibly: A Field Guide*](https://partnershiponai.org/) by
 
 * **CONTEMPLATE**. Take a shower. Go for a walk. 
   * **Think** about what kinds of datasets interest you. 
-  * **Think** about what kinds of datasets interest you could **make**.
-  * **Think** about what kinds of datasets you *might already hav*e. 
+  * **Think** about what kinds of datasets interest you could *make*.
+  * **Think** about what kinds of datasets you *might already have*. 
 * **FORAGE**. 
-  * **Search** and **browse** online for images, image datasets, and sources of images. These could be actual readymade datasets (that need to be curated or filtered down!), or they could be image-rich sites...such as: 
+  * **Search** and **browse** online for images, image datasets, and sources of images. These could be actual readymade datasets (that need to be curated or filtered down!), or they could be image-rich websites...such as: 
 	  * [3064 image datasets at Paperswithcode.com](https://paperswithcode.com/datasets?mod=images)
 	  * [Explore British Library's 1073563 photos on Flickr!](https://www.flickr.com/photos/britishlibrary/)
 	  * [A list of image datasets](https://docs.google.com/spreadsheets/d/1VijZSkQbqOvsvYBXdCx9UGu5zHGZPPpzwH2uHS-2XxQ/edit?usp=sharing); [another copy](https://docs.google.com/spreadsheets/d/1fIbvZaVl0b82VflBMrfG7QIPxIBtK_w8E8ZAt-uUuAc/edit?usp=sharing)
 	  * [A list of datasets in computer vision and image processing](https://en.wikipedia.org/wiki/List_of_datasets_in_computer_vision_and_image_processing)
 	  * [28 Free Image Datasets for Computer Vision](https://imerit.net/blog/28-free-image-datasets-for-computer-vision-all-pbm/), [20+ Open Source Computer Vision Datasets](https://www.v7labs.com/blog/computer-vision-datasets), [Madrona's list of Public image datasets](https://www.madronavl.com/launchable/public-data-sources-images), [medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets) etc.
-* In the `#3-3-reading` Discord channel, write up at least one (two would be better) **PROPOSED** examples of what you might work with for each of the followingL:
-	1. Your own **selfmade** image dataset(s)
-	2. Dataset(s) of media you'd like to **scrape**
-	3. Existing ready-made datasets you'd like to **use**.
+* In the `#3-3-proposals` Discord channel, **describe** at least one (two would be better) **PROPOSED** examples of what you might work with for *each* of the following:
+	1. Your own **selfmade** image dataset(s) -- your own photos, drawings, scans, etc.
+	2. Collection(s) of online media you'd be interested to assemble by **scraping**
+	3. Existing ready-made datasets (or portions of readymade datasets) that you'd like to **use**.
 
 On Tuesday we will meet in small pod groups to discuss your proposed datasets. 
 
