@@ -11,7 +11,7 @@ Golan Levin, February 2025
 
 ## Overview
 
-Let's walk through a staged process of building a webscraper. Our subject site will be [**http://books.toscrape.com/**](http://books.toscrape.com/), a site made as a practice website for web scraping. It contains static HTML content, making it ideal for beginners learning scraping tools like BeautifulSoup, Scrapy, or Selenium. We will progress in several stages: 
+Let's walk through a **staged process** of building a webscraper. Our subject site will be [**http://books.toscrape.com/**](http://books.toscrape.com/), a site made as a practice website for web scraping. It contains static HTML content, making it ideal for beginners learning scraping tools like BeautifulSoup, Scrapy, or Selenium. We will progress in several stages: 
 
 1. **[`BooksToScrapeScraper_v1.py`](BooksToScrapeScraper_v1.py)**
   * **Version 1** of our script automatically downloads the small thumbnail images from books.toscrape, but only from its first page of results. 
