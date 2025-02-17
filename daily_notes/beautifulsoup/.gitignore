@@ -1,0 +1,6 @@
+.DS_Store
+img/.DS_Store
+book_covers/
+book_cover_thumbnails/
+book_covers_cropped_256/
+myScrapeVenv/
