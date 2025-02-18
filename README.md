@@ -40,7 +40,7 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 02/13`: 
 * `Tue 02/18`: Due [3.0-3.3](assignments/assignment_3.md)
 * `Thu 02/20`: 
-* `Tue 02/25`: 
+* `Tue 02/25`: Due [3.4](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_3.md#34-draft-collection-500-images)
 * `Thu 02/27`: Assignments #3a Due.
 * `MAR -----`
 * `Tue 03/04`: *No session (Spring Break)*
