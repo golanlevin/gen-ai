@@ -77,5 +77,16 @@ On Tuesday we will meet in small pod groups to discuss your proposed datasets.
 
 ---
 
-## More TBA.
+## 3.4. (Draft) Collection: 500 Images
+
+* *By any means necessary,* **create or pilfer** a collection of at least 500 images. Please have this collection ready by the beginning of class.
+* Using `ffmpeg`, **create** directories containing versions of your images which have been cropped and/or scaled to 128x128 and 256x256 pixels. (Make sure to retain a directory of your original, best-quality image versions!)
+* Using the imagemagick `montage` command, **compile** a simple image grid of all the 128x128 images. If necessary, you may need to `brew install imagemagick` beforehand. A command for this is below. 
+* In the Discord channel, `3-4-draft-collection`, post your simple image grid. 
+
+
+Generate simple grid: 
+```
+montage fins_128x128/*.jpg -tile 32x32 -geometry 128x128+0+0 -background black output_grid.jpg
+```
 
