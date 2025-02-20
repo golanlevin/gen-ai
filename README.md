@@ -22,6 +22,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 02/11` [Sam Lavigne visit](daily_notes/0211.md)
 * `Thu 02/13` [Project Presentations Continued; intro to Unit 3](daily_notes/0213.md)
 * `Tue 02/18` [Capture Machines, Datasets](daily_notes/0218.md)
+* `Thu 02/20` [Capture Machines, Ffmpeg, BSoup](daily_notes/0220.md)
 
 ---
 
