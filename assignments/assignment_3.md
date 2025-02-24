@@ -11,6 +11,7 @@ This unit is concerned with data sovereignty. We will collect our own training d
 * 3.1. Viewing: [Exposing AI](https://exposing.ai/)
 * 3.2. Reading: [Typologies](https://www.photopedagogy.com/typologies.html)
 * 3.3. Contemplate & Forage: Datasets Proposals 
+* 3.4. (Draft) Collection: Bring in 500 Images
 
 --- 
 
@@ -77,7 +78,7 @@ On Tuesday we will meet in small pod groups to discuss your proposed datasets.
 
 ---
 
-## 3.4. (Draft) Collection: 500 Images
+## 3.4. (Draft) Collection: Bring in 500 Images
 
 * *By any means necessary,* **create or pilfer** a collection of at least 500 images. Please have this collection ready by the beginning of class.
 * Using `ffmpeg`, **create** directories containing versions of your images which have been cropped and/or scaled to 128x128 and 256x256 pixels. (Make sure to retain a directory of your original, best-quality image versions!) **NEW**: Also make 32x32 pixel versions of your images as well, please. 
@@ -85,8 +86,13 @@ On Tuesday we will meet in small pod groups to discuss your proposed datasets.
 * In the Discord channel, `3-4-draft-collection`, post your simple image grid. 
 
 
-Generate simple grid: 
+Generate a simple mosaic using the imagemagick `montage` command: 
 ```
 montage fins_128x128/*.jpg -tile 32x32 -geometry 128x128+0+0 -background black output_grid.jpg
 ```
+
+---
+
+## 3.5. UMAP/t-SNE Mosaic
+
 
