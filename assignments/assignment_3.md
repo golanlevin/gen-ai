@@ -12,6 +12,10 @@ This unit is concerned with data sovereignty. We will collect our own training d
 * 3.2. Reading: [Typologies](https://www.photopedagogy.com/typologies.html)
 * 3.3. Contemplate & Forage: Datasets Proposals 
 * 3.4. (Draft) Collection: Bring in 500 Images
+* 3.5. Produce a rectified embedding grid visualization
+* 3.6. Train a LoRA
+* 3.7. Use your LoRA
+* 3.8. Train a GAN *(weather permitting)*
 
 --- 
 
@@ -83,7 +87,7 @@ On Tuesday we will meet in small pod groups to discuss your proposed datasets.
 * *By any means necessary,* **create or pilfer** a collection of at least 500 images. Please have this collection ready by the beginning of class.
 * Using `ffmpeg`, **create** directories containing versions of your images which have been cropped and/or scaled to 128x128 and 256x256 pixels. (Make sure to retain a directory of your original, best-quality image versions!) **NEW**: Also make 32x32 pixel versions of your images as well, please. 
 * Using the imagemagick `montage` command, **compile** a simple image grid of all the 128x128 images. If necessary, you may need to `brew install imagemagick` beforehand. A command for this is below. 
-* In the Discord channel, `3-4-draft-collection`, post your simple image grid. 
+* In the Discord channel, `#3-4-draft-collection`, post your simple image grid. 
 
 
 Generate a simple mosaic using the imagemagick `montage` command: 
@@ -94,5 +98,26 @@ montage fins_128x128/*.jpg -tile 32x32 -geometry 128x128+0+0 -background black o
 ---
 
 ## 3.5. UMAP/t-SNE Mosaic
+
+*Produce a rectified embedding grid visualization.*
+
+By the end of class on Tuesday 2/25, you *should* be able to **make a mosaic** that presents an image dataset in an organized way using UMAP/t-SNE. However, in case you hit any snags, be sure to finish this before class on Thursday 2/27. Your two options for doing this work are: 
+
+* [ImageRearranger Jupyter Notebook](https://github.com/golanlevin/ImageRearranger/blob/master/ImageRearranger.ipynb)
+* [ImageRearranger Colab Notebook](https://colab.research.google.com/drive/1rgxYnSziGuToW0oLbmzSwq470e6nVXHC?usp=sharing)
+
+Now,
+
+* In the Discord channel, `#3-5-mosaic`, **post** an image of your organized mosaic. 
+* **Write** a sentence or two about what the images are, and anything that occurred to you about this process. 
+
+![final_mosaic.png](img/final_mosaic.png)
+
+---
+
+## 3.6. Train a LoRA
+## 3.7. Use your LoRA in ComfyUI
+## 3.8. Train a GAN *(weather permitting)*
+
 
 
