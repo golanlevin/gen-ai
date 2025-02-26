@@ -101,10 +101,9 @@ montage fins_128x128/*.jpg -tile 32x32 -geometry 128x128+0+0 -background black o
 
 *Produce a rectified embedding grid visualization.*
 
-By the end of class on Tuesday 2/25, you *should* be able to **make a mosaic** that presents an image dataset in an organized way using UMAP/t-SNE. However, in case you hit any snags, be sure to finish this before class on Thursday 2/27. Your two options for doing this work are: 
+By the end of class on Tuesday 2/25, you *should* be able to **make a mosaic** that presents an image dataset in an organized way using UMAP/t-SNE. However, in case you hit any snags, be sure to finish this before class on Thursday 2/27. Your tool for doing this work is:
 
-* [ImageRearranger Jupyter Notebook](https://github.com/golanlevin/ImageRearranger/blob/master/ImageRearranger.ipynb)
-* [ImageRearranger Colab Notebook](https://colab.research.google.com/drive/1rgxYnSziGuToW0oLbmzSwq470e6nVXHC?usp=sharing)
+* [**ImageRearranger repository**](https://github.com/golanlevin/ImageRearranger/tree/master) (includes both Jupyter and Colab versions of the Python notebook)
 
 Now,
 
