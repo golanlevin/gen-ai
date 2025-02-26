@@ -23,8 +23,8 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 02/13` [Project Presentations Continued; intro to Unit 3](daily_notes/0213.md)
 * `Tue 02/18` [Capture Machines, Datasets](daily_notes/0218.md)
 * `Thu 02/20` [Capture Machines, Ffmpeg, BSoup](daily_notes/0220.md)
-* `Tue 02/25` [UMAP/t-SNE, LoRA](daily_notes/0225.md)
-
+* `Tue 02/25` [UMAP/t-SNE](daily_notes/0225.md)
+* `Thu 02/27` [LoRA](daily_notes/0227.md)
 
 ---
 
@@ -44,7 +44,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 02/18`: Due [3.0-3.3](assignments/assignment_3.md)
 * `Thu 02/20`: 
 * `Tue 02/25`: Due [3.4](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_3.md#34-draft-collection-500-images)
-* `Thu 02/27`: Assignments #3a Due.
+* `Thu 02/27`: Due [3.5](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_3.md#35-umapt-sne-mosaic) (UMAP/t-SNE mosaic)
 * `MAR -----`
 * `Tue 03/04`: *No session (Spring Break)*
 * `Thu 03/06`: *No session (Spring Break)*
