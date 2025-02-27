@@ -116,19 +116,34 @@ Now,
 
 ## 3.6. Train a LoRA
 
-*Use Civitai to train a LoRA. This should be achievable by the end of class on 2/27.*
+*Use Civitai to train a LoRA. This "should" be achievable by the end of class on 2/27, but is due no later than 3/13.*
 
 * **Bring in** 20-500 images on Thursday 2/27. 
 * Credentials for a Civitai account will be privately shared with you via Discord. 
 * **Use** [Civitai to train a LoRA](https://civitai.com/models/train) using your images. 
 * **Upload** your LoRA to RunComfy, and store it in the `models/lora` folder. 
-* **Hook up** your LoRA in ComfyUI and try to run it!
-* In the Discord channel, `#3-6-lora-works`, **post** a screenshot of your LoRA working in ComfyYUI. 
+* **Hook up** your LoRA in ComfyUI and use it to make "more like this, please!"
+* In a post (or dedicated thread) in the Discord channel, `#3-6-lora`, **write** a sentence about what sort of data you trained your LoRA on.
+* Also **upload** an image of some of your LoRA training data
+* Also **upload** some examples of your LoRA in action -- some results of what it can make. 
+* Also **upload** a screenshot of your LoRA workflow in ComfyYUI. 
 
 ---
 
-## 3.7. Use your own LoRA in ComfyUI
-## 3.8. Train a GAN *(weather permitting)*
+## 3.7. Present or Use your Data Collection
 
+For Thursday, March 13 (the Thursday in the first week back from Spring Break), do either of the following: 
 
+* Complete 
+* Create a high-resolution mosaci
+
+---
+
+## 3.X. Train a GAN *(weather permitting)*
+
+*I've determine that I'm not able to get this working in a way which is practical for 16 students. Instead, I will present this as a classroom demonstration rather than an all-class assignment. If someone is interested, they could explore it for Project 4.* 
+
+---
+
+EOF
 

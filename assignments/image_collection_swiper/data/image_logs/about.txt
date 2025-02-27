@@ -1,0 +1,1 @@
+This folder contains logs of decisions about images. 
