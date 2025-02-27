@@ -15,7 +15,7 @@ This unit is concerned with data sovereignty. We will collect our own training d
 * 3.5. Produce a rectified embedding grid visualization
 * 3.6. Train a LoRA
 * 3.7. Use your LoRA
-* 3.8. Train a GAN *(weather permitting)*
+* 3.—. Train a GAN *(Cancelled and converted to demonstration)*
 
 --- 
 
@@ -114,7 +114,7 @@ Now,
 
 ---
 
-## 3.6. Train a LoRA
+## 3.6. In-Class Exercise: Train a LoRA
 
 *Use Civitai to train a LoRA. This "should" be achievable by the end of class on 2/27, but is due no later than 3/13.*
 
@@ -126,22 +126,31 @@ Now,
 * In a post (or dedicated thread) in the Discord channel, `#3-6-lora`, **write** a sentence about what sort of data you trained your LoRA on.
 * Also **upload** an image of some of your LoRA training data
 * Also **upload** some examples of your LoRA in action -- some results of what it can make. 
-* Also **upload** a screenshot of your LoRA workflow in ComfyYUI. 
+* Also **upload** a screenshot of your LoRA workflow in ComfyYUI.
+
+![DrolaticPantagruel.jpg](../daily_notes/img/DrolaticPantagruel.jpg)<br />
+<small>Images synthesized using a LoRA that Golan trained on *Les songes drolatiques de Pantagruel*, 1565</small>
 
 ---
 
-## 3.7. Present or Use your Data Collection
+## 3.7. *PRESENT and/or USE* your Personal Image Dataset
 
 For Thursday, March 13 (the Thursday in the first week back from Spring Break), do either of the following: 
 
-* Complete 
-* Create a high-resolution mosaci
+* **Complete** the collection of **your personal image dataset**. This *may or may not* be the same as the image dataset that you used for the in-class exercise on 2/25 (i.e. you might have used a different dataset because you weren't done collecting your 'real' yet). 
+* Be prepared to **present** and **discuss** your personal dataset in class. 
+* **Create** a high-resolution mosaic of your dataset. 
+* In a post/thread in the Discord channel `#3-7-img-dataset`, **write** a few sentences about your dataset. What did you collect? Why did this data intrigue you? How did you collect it? What challenges did you overcome to collect/organize/use it? 
+* In your post, **upload** your final mosaic image and/or any other visualizations of your image dataset.
+* *If appropriate to your concept,* **upload** other media you derived from or created with your image dataset (such as synthetic images you generated with a custom-trained LoRA).
 
 ---
 
-## 3.X. Train a GAN *(weather permitting)*
+## 3.—. Train a GAN
 
-*I've determine that I'm not able to get this working in a way which is practical for 16 students. Instead, I will present this as a classroom demonstration rather than an all-class assignment. If someone is interested, they could explore it for Project 4.* 
+### *(Converted to forthcoming lecture demo)*
+
+*I've determined that I'm not able to get this working in a way which is practical for 16 students with arbitrary datasets. Instead, I will present this as a classroom demonstration rather than an all-class deliverable. If someone is interested, they could explore it for Project 4.* 
 
 ---
 
