@@ -2,7 +2,7 @@
 
 ---
 
-## 4.1. Readings 
+## 4.1. Readings: 
 
 ![schlopp.jpg](img/schlopp.jpg)
 
@@ -11,4 +11,5 @@
 * Hito Steyerl, [*In Defense of the Poor Image*](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/), 11/2009. *(20 minute read)*
 * Dylan Schenker, [*In Defense of AI Slop*](https://teratologies.substack.com/p/in-defense-of-ai-slop), 1/2025. *(12 minute read)*
 
+---
 
