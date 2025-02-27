@@ -99,7 +99,7 @@ montage fins_128x128/*.jpg -tile 32x32 -geometry 128x128+0+0 -background black o
 
 ## 3.5. UMAP/t-SNE Mosaic
 
-*Produce a rectified embedding grid visualization.*
+*Done in-class on 2/25. Produce a rectified embedding grid visualization.*
 
 By the end of class on Tuesday 2/25, you *should* be able to **make a mosaic** that presents an image dataset in an organized way using UMAP/t-SNE. However, in case you hit any snags, be sure to finish this before class on Thursday 2/27. Your tool for doing this work is:
 
@@ -115,7 +115,19 @@ Now,
 ---
 
 ## 3.6. Train a LoRA
-## 3.7. Use your LoRA in ComfyUI
+
+*Use Civitai to train a LoRA. This should be achievable by the end of class on 2/27.*
+
+* **Bring in** 20-500 images on Thursday 2/27. 
+* Credentials for a Civitai account will be privately shared with you via Discord. 
+* **Use** [Civitai to train a LoRA](https://civitai.com/models/train) using your images. 
+* **Upload** your LoRA to RunComfy, and store it in the `models/lora` folder. 
+* **Hook up** your LoRA in ComfyUI and try to run it!
+* In the Discord channel, `#3-6-lora-works`, **post** a screenshot of your LoRA working in ComfyYUI. 
+
+---
+
+## 3.7. Use your own LoRA in ComfyUI
 ## 3.8. Train a GAN *(weather permitting)*
 
 
