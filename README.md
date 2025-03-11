@@ -25,6 +25,7 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 02/20` [Capture Machines, Ffmpeg, BSoup](daily_notes/0220.md)
 * `Tue 02/25` [UMAP/t-SNE](daily_notes/0225.md)
 * `Thu 02/27` [LoRA](daily_notes/0227.md)
+* `Thu 03/11` [Worksession, updates](daily_notes/0311.md)
 
 ---
 
