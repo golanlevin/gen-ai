@@ -10,12 +10,12 @@ This unit is concerned with data sovereignty. We will collect our own training d
 * 3.0. Viewing: [Corpora as Medium](https://www.youtube.com/watch?v=IYNKs8vfocc)
 * 3.1. Viewing: [Exposing AI](https://exposing.ai/)
 * 3.2. Reading: [Typologies](https://www.photopedagogy.com/typologies.html)
-* 3.3. Contemplate & Forage: Datasets Proposals 
-* 3.4. (Draft) Collection: Bring in 500 Images
-* 3.5. Produce a rectified embedding grid visualization
-* 3.6. Train a LoRA
-* 3.7. Use your LoRA
-* 3.—. Train a GAN *(Cancelled and converted to demonstration)*
+* 3.3. [Contemplate & Forage: Datasets Proposals](#33-contemplate--forage-datasets-proposals)
+* 3.4. [(Draft) Collection: Bring in 500 Images](#34-draft-collection-bring-in-500-images)
+* 3.5. [UMAP/t-SNE Mosaic](#35-umapt-sne-mosaic)
+* 3.6. [In-Class Exercise: Train a LoRA](#36-in-class-exercise-train-a-lora)
+* 3.7. [**Present and/or Use your Personal Image Dataset**](#37-present-andor-use-your-personal-image-dataset)
+
 
 --- 
 
@@ -135,16 +135,20 @@ Now,
 
 ## 3.7. *PRESENT and/or USE* your Personal Image Dataset
 
-For Thursday, March 13 (the Thursday in the first week back from Spring Break), do either of the following: 
+*(Owing to Golan's flu, this deliverable has been moved to Tuesday, March 18).* Do the following: 
 
 * **Complete** the collection of **your personal image dataset**. This *may or may not* be the same as the image dataset that you used for the in-class exercise on 2/25 (i.e. you might have used a different dataset because you weren't done collecting your 'real' yet). 
 * Be prepared to **present** and **discuss** your personal dataset in class. 
 * **Create** a high-resolution mosaic of your dataset. 
 * In a post/thread in the Discord channel `#3-7-img-dataset`, **write** a few sentences about your dataset. What did you collect? Why did this data intrigue you? How did you collect it? What challenges did you overcome to collect/organize/use it? 
 * In your post, **upload** your final mosaic image and/or any other visualizations of your image dataset.
-* *If appropriate to your concept,* **upload** other media you derived from or created with your image dataset (such as synthetic images you generated with a custom-trained LoRA).
+* *If/as appropriate to your concept,* **upload** other media you derived from or created with your image dataset (such as synthetic images you generated with a custom-trained LoRA).
 
 ---
+
+EOF
+
+<!-- 
 
 ## 3.—. Train a GAN
 
@@ -152,7 +156,4 @@ For Thursday, March 13 (the Thursday in the first week back from Spring Break), 
 
 *I've determined that I'm not able to get this working in a way which is practical for 16 students with arbitrary datasets. Instead, I will present this as a classroom demonstration rather than an all-class deliverable. If someone is interested, they could explore it for Project 4.* 
 
----
-
-EOF
-
+-->

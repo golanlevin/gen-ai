@@ -26,6 +26,9 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 02/25` [UMAP/t-SNE](daily_notes/0225.md)
 * `Thu 02/27` [LoRA](daily_notes/0227.md)
 * `Thu 03/11` [Worksession, updates](daily_notes/0311.md)
+* `Thu 03/13` *No session, Golan sick*
+* `Tue 03/18` [Project 3 Presentations](daily_notes/0318.md)
+
 
 ---
 
@@ -50,8 +53,8 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 03/04`: *No session (Spring Break)*
 * `Thu 03/06`: *No session (Spring Break)*
 * `Tue 03/11`: 
-* `Thu 03/13`: Assignments #3b Due.
-* `Tue 03/18`: 
+* `Thu 03/13`: *No session (Golan sick)*
+* `Tue 03/18`: [**Assignments #3.7 Due.**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_3.md#37-present-andor-use-your-personal-image-dataset)
 * `Thu 03/20`: 
 * `Tue 03/25`: 
 * `Thu 03/27`: 
