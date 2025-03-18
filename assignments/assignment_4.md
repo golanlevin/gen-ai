@@ -1,13 +1,13 @@
 # Assignment Set #4: Off-Road Experiments
 
 
-For this unit, we will turn our classroom into a Sharing Laboratory. Each day, we will have collective work sessions in which you make and share your experiments. The pressure is off to make "good" work; rather, our goal here is to **tinker freely**. For these experiments, think: less Deep Meaningful Art, more [Dumb Jokes](https://www.nytimes.com/interactive/2023/07/10/style/ai-memes-jokes.html?smid=nytcore-ios-share&referringSource=articleShare).
+For this unit, we will turn our classroom into a *Sharing Laboratory*. Each day, we will have collective work sessions in which you make and share your experiments. The pressure is off to make "good" work; rather, our goal here is to **tinker freely**. For these experiments, think: less Deep Meaningful Art, more [Dumb Jokes](https://www.nytimes.com/interactive/2023/07/10/style/ai-memes-jokes.html?smid=nytcore-ios-share&referringSource=articleShare).
 
 This set of assignments has the following components:
 
 * 4.1. [Specify Tools in our Spreadsheet](#4-1-specify-tools-in-our-spreadsheet) — *Due 3/20; 30 minutes*
 * 4.2. [Readings: Slop; Other AIs](#4-2-readings-slop-other-ais) — *Due 3/25; 40 minutes*
-
+* 4.3 & 4.4: **Experiments A & B** - *3-5 hours X2*
 
 ---
 
@@ -15,10 +15,9 @@ This set of assignments has the following components:
 
 *(Due Thursday 3/20. Estimated time: 30 minutes.)* 
 
-**Identify 3 tools** (whether open-source/free or commercial) which you'd like to use to conduct lightweight, low-stakes tinkering and experiments with. 
-
-We will have a communal spreadsheet for us to fill up with your list. (For example, personally, I want to experiment with Roboflow.) Then, I will pay the monies.
-
+* **Identify 3 tools** (whether open-source/free or commercial) which you'd like to use to conduct lightweight, low-stakes tinkering and experiments with. 
+* We have a communal spreadsheet -- **populate** it with your list. (For example, personally, I want to experiment with Roboflow.) Then, I will pay the monies.
+* Pay attention to the `key-information` channel in the Discord, where I will put login information for the various accounts!
 
 ---
 
@@ -40,9 +39,13 @@ For **Tuesday, March 25**, please:
 
 ---
 
-## 4.3. 
+## 4.3 & 4.4: Experiments A & B
 
-You will be expected to document at least two of your experiments and workflows -- in a such a way that you are effectively sharing your learnings in enough detail that you save your classmates some time if they decide to explore that tool later on.
+*Approximately 3-5 hours of tinkering and experimentation, times 2. Posts should be planned for 3/25 or 3/27 and 4/1.*
+
+* Please **document** at least two of your experiments and workflows. 
+* **Write** posts in Discord channels `#4-Experiment-A` and `#4-Experiment-B`.  
+* **Include** images and screenshots. Ideally, **document** your experiments a such a way that you can save your classmates some time if they decide to explore that tool later on. What did you do? How did you do it? What did you learn about this tool?
 
 ---
 
