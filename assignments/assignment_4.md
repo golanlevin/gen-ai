@@ -7,7 +7,7 @@ This set of assignments has the following components:
 
 * 4.1. [Specify Tools in our Spreadsheet](#4-1-specify-tools-in-our-spreadsheet) — *Due 3/20; 30 minutes*
 * 4.2. [Readings: Slop; Other AIs](#4-2-readings-slop-other-ais) — *Due 3/25; 40 minutes*
-* 4.3 & 4.4: **Experiments A & B** - *3-5 hours, times 2*
+* 4.3 & 4.4: [**Experiments A & B**](d#43--44-experiments-a--b) - *Due on or before 4/1; 3-5 hours each*
 
 ---
 
@@ -18,7 +18,7 @@ This set of assignments has the following components:
 * **Identify 3 tools** (whether open-source/free or commercial) which you'd like to use to conduct lightweight, low-stakes tinkering and experiments with. 
 * We have a [communal spreadsheet](https://docs.google.com/spreadsheets/d/1rxn_dvDwinS47S7C3V8fr0u2ssaF4chq3iz7P3CZm50/edit?usp=sharing) -- Please **populate** it ASAP with your software request list. (For example, personally, I want to experiment with Roboflow.) Then, I will pay the monies.
 * **Pay attention** to the `key-information` channel in the Discord, where I will put login information for the various accounts!
-* There's no Discord post required for 4.1. 
+* In the Discord channel `4-1-tinkerplan`, **post** a sentence listing the tools/techniques you're thinking about exploring. 
 
 ---
 
@@ -46,7 +46,7 @@ For **Tuesday, March 25**, please:
 
 * Please **document** at least two of your experiments and workflows. 
 * **Write** posts in Discord channels `#4-Experiment-A` and `#4-Experiment-B`.  
-* **Include** images and screenshots. Ideally, **document** your experiments a such a way that you can save your classmates some time if they decide to explore that tool later on. What did you do? How did you do it? What did you learn about this tool?
+* **Include** images and screenshots. Ideally, **document** your experiments in such a way that you could save your classmates some time if they decide to explore that tool later on. What did you do? How did you do it? What did you learn about this tool?
 
 ---
 

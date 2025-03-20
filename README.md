@@ -55,18 +55,18 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 03/11`: 
 * `Thu 03/13`: *No session (Golan sick)*
 * `Tue 03/18`: [**Assignments #3.7 Due.**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_3.md#37-present-andor-use-your-personal-image-dataset)
-* `Thu 03/20`: 
-* `Tue 03/25`: 
+* `Thu 03/20`: Due [4.1](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_4.md#41-specify-tools-in-our-spreadsheet) (Tinkerplan)
+* `Tue 03/25`: Due [4.2](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_4.md#42-readings-slop-other-ais) (Readings)
 * `Thu 03/27`: 
 * `APR -----`
-* `Tue 04/01`: Assignments #4 Due. Kyle McDonald class visit.
+* `Tue 04/01`: [**Assignments #4A & 4B Due.**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_4.md#43--44-experiments-a--b). Kyle McDonald class visit.
 * `Thu 04/03`: *No session (Spring Carnival)*
 * `Tue 04/08`: 
 * `Tue 04/10`: 
 * `Tue 04/15`: 
 * `Tue 04/17`: 
 * `Tue 04/22`: 
-* `Tue 04/24`: Assignments #5 Draft Due. 
+* `Tue 04/24`: Assignment #5 Draft Due. 
 * `---------`
 * *On or prior to 05/05: Final Project Presentations.*
 
