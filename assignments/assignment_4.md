@@ -5,9 +5,9 @@ For this unit, we will turn our classroom into a *Sharing Laboratory*. Each day,
 
 This set of assignments has the following components:
 
-* 4.1. [Specify Tools in our Spreadsheet](#4-1-specify-tools-in-our-spreadsheet) — *Due 3/20; 30 minutes*
-* 4.2. [Readings: Slop; Other AIs](#4-2-readings-slop-other-ais) — *Due 3/25; 40 minutes*
-* 4.3 & 4.4: [**Experiments A & B**](d#43--44-experiments-a--b) - *Due on or before 4/1; 3-5 hours each*
+* 4.1. [Specify Tools in our Spreadsheet](#41-specify-tools-in-our-spreadsheet) — *Due 3/20; 30 minutes*
+* 4.2. [Readings: Slop; Other AIs](#42-readings-slop-other-ais) — *Due 3/25; 40 minutes*
+* 4.3 & 4.4: [**Experiments A & B**](#43--44-experiments-a--b) - *Due on or before 4/1; 3-5 hours each*
 
 ---
 
