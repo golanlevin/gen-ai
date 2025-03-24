@@ -28,7 +28,8 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 03/11` [Worksession, updates](daily_notes/0311.md)
 * `Thu 03/13` *No session, Golan sick*
 * `Tue 03/18` [Project 3 Presentations](daily_notes/0318.md)
-
+* `Thu 03/20` Project 3 Presentations continued
+* `Tue 03/25` [Assignment 4.x work session](daily_notes/0325.md)
 
 ---
 

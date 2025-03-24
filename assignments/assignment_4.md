@@ -36,7 +36,7 @@ For **Tuesday, March 25**, please:
   1. Eryk Salvaggio, [*Slop Infrastructures*, Parts 1 and 2](https://mail.cyberneticforests.com/slop-infrastructures-1-2/), 12/2024. *(12 minute read)*
   2. Eryk Salvaggio, [*Are Other AIs Possible?*](https://mail.cyberneticforests.com/sp/), 1/2025. *(15 minute read)*
 * **Create** a post in the Discord channel, `#4-2-readings`.
-* In your post, **write** a couple of sentences responding to the readings. For example, you might point out something that struck you as interesting, or that you disagreed with, etcetera. 
+* In your post, **write** sentence or two responding to the reading(s). For example, you might point out something that struck you as interesting, or that you disagreed with, etcetera. 
 
 ---
 
