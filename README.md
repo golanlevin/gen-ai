@@ -60,7 +60,7 @@ Prof. Golan Levin, CMU School of Art
 * `Tue 03/25`: Due [4.2](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_4.md#42-readings-slop-other-ais) (Readings)
 * `Thu 03/27`: 
 * `APR -----`
-* `Tue 04/01`: [**Assignments #4A & 4B Due.**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_4.md#43--44-experiments-a--b). Kyle McDonald class visit.
+* `Tue 04/01`: [**Assignments #4.3 Due**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_4.md#43-experiments). Kyle McDonald class visit.
 * `Thu 04/03`: *No session (Spring Carnival)*
 * `Tue 04/08`: 
 * `Tue 04/10`: 
