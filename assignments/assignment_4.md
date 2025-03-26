@@ -7,7 +7,7 @@ This set of assignments has the following components:
 
 * 4.1. [Specify Tools in our Spreadsheet](#41-specify-tools-in-our-spreadsheet) — *Due 3/20; 30 minutes*
 * 4.2. [Readings: Slop; Other AIs](#42-readings-slop-other-ais) — *Due 3/25; 40 minutes*
-* 4.3 & 4.4: [**Experiments A & B**](#43--44-experiments-a--b) - *Due on or before 4/1; 3-5 hours each*
+* 4.3: [**Experiments**](#43-experiments) - *Due on or before 4/1; 4-6 hours*
 
 ---
 
@@ -40,13 +40,15 @@ For **Tuesday, March 25**, please:
 
 ---
 
-## 4.3 & 4.4: Experiments A & B
+## 4.3: Experiments
 
-*Approximately 3-5 hours of tinkering and experimentation, times 2. Posts should be planned for 3/25 or 3/27 and 4/1.*
+*Approximately 4-6 hours of tinkering and experimentation. Your post is due by 4/1, but preferably earlier.*
 
-* Please **document** at least two of your experiments and workflows. 
-* **Write** posts in Discord channels `#4-Experiment-A` and `#4-Experiment-B`.  
-* **Include** images and screenshots. Ideally, **document** your experiments in such a way that you could save your classmates some time if they decide to explore that tool later on. What did you do? How did you do it? What did you learn about this tool?
+* Feel welcome to **journal** some of your tinkering in the `#club` channels. 
+* Please **document** (slightly more formally) one of your experiments and/or workflows: 
+* **Write** a post in the Discord channel `#4-Experiments`.
+* **Include** images and screenshots. 
+* **Document** your experiment in such a way that you could save your classmates some time if they decided to explore that tool later on. What did you do? How did you do it? What did you learn about this tool? Include technical suggestions.
 
 ---
 
