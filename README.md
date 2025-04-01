@@ -63,14 +63,14 @@ Prof. Golan Levin, CMU School of Art
 * `APR -----`
 * `Tue 04/01`: [**Assignments #4.3 Due**](https://github.com/golanlevin/gen-ai/blob/main/assignments/assignment_4.md#43-experiments). Kyle McDonald class visit.
 * `Thu 04/03`: *No session (Spring Carnival)*
-* `Tue 04/08`: Due: 5.1, Project Proposal
+* `Tue 04/08`: Due: 5.1, [Project Proposal](assignments/assignment_5.md#51proposal)
 * `Thu 04/10`: 
-* `Tue 04/15`: Due: 5.2, Technical Milestone
+* `Tue 04/15`: Due: 5.2, [Technical Milestone](assignments/assignment_5.md#52-technical-milestone)
 * `Thu 04/17`: 
-* `Tue 04/22`: Due: 5.3, Draft Artwork
+* `Tue 04/22`: Due: 5.3, [Draft Artwork](assignments/assignment_5.md#53-draft-artwork)
 * `Thu 04/24`:  
-* `Thu 05/01`: Due: 5.4, [**Final Project Presentation**](assignments/assignment_5.md)
-* `Mon 05/05`: Due: 5.5, **Final Project Documentation**
+* `Thu 05/01`: Due: 5.4, [**Final Project Presentation**](assignments/assignment_5.md#54-final-project-presentation)
+* `Mon 05/05`: Due: 5.5, [**Final Project Documentation**](assignments/assignment_5.md#55-final-project-documentation)
 
 ![Assignment Schedule](syllabus/schedule-new.png)
 
