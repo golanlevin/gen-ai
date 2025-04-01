@@ -16,9 +16,9 @@ This project has five milestones — each consisting of a post on your named Di
 
 ---
 
-# Connect AI to Your Practice
+# Connect 'AI' to Your Practice
 
-Our final assignment is an open-ended, self-directed final project in which you are invited to find a way to expand your own creative practice through AI techniques. Possible final projects could be things like: 
+Our final assignment is an open-ended, self-directed final project in which you are invited to find a way to expand your own creative practice through machine learning and "AI" techniques. Possible final projects could be things like: 
 
 * a printed book, zine, or comic
 * a deck of cards, featuring a collection of images
