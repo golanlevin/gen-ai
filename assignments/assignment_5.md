@@ -20,10 +20,11 @@ This project has five milestones — each consisting of a post on your named Di
 
 Our final assignment is an open-ended, self-directed final project in which you are invited to find a way to expand your own creative practice through machine learning and "AI" techniques. Possible final projects could be *things like*: 
 
+* a series of images comprising a study of a technique and/or idea
+* a series of ultra-short videos or GIFs (e.g. for social media)
 * a printed book, zine, or comic
 * a deck of cards, featuring a collection of images
 * an animation or short film
-* a series of ultra-short videos or GIFs (e.g. for social media)
 * a song or collection of songs
 * a podcast, radio play, or book-on-tape
 * an interactive website or installation
