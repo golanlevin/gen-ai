@@ -31,6 +31,7 @@ Prof. Golan Levin, CMU School of Art
 * `Thu 03/20` Project 3 Presentations continued
 * `Tue 03/25` [Assignment 4.x work session](daily_notes/0325.md)
 * `Tue 04/01` [Assignment 4 Discussions](daily_notes/0401.md)
+* `Tue 04/08` [Begin Final Projects!](daily_notes/0408.md)
 
 ---
 
