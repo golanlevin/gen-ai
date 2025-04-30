@@ -52,7 +52,7 @@ In our Discord, there will be a channel specifically dedicated to your project, 
 *Due Tuesday 4/22.* **Present** a rough sketch of what the final project will be. This could be a sample page from a book, etc. **Explain** where things are going, and how your plans are changing as the rubber meets the road. **Include** an image or screenshot to document your process. 
 
 #### 5.4. Final Project Presentation
-On Thursday May 1st, you'll **present** your final project in a special morning session of the class. (The format of this session is TBD; it might be serial presentations, or it might be science-fair style.) A Discord post is recommended but not required here. 
+On Thursday May 1st, you'll **present** your final project in a special morning session of the class. (The format of this session is TBD; it might be serial presentations, or it might be science-fair style.) A Discord post is strongly recommended, but not strictly required. 
 
 #### 5.5. Final Project Documentation
 *Due Monday, May 5th by Noon.* Document your final project. **Include** both *remote* links to the project itself (such as an unlisted YouTube video, Google drive PDF, or GitHub repository), as well as *local* (embedded) media within Discord that can adequately represent the project: embedded screenshots, photos, GIFs, etc. **Write** a narrative that explains what the project is, how you developed it, what you learned in the process, and how you evaluate the results. 
