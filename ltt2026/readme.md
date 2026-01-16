@@ -1,5 +1,5 @@
 # Datasets as Medium: 
-## Teaching the Full ML Pipeline from Collection to Synthesis
+## (An Assignment in) Teaching the Full ML Pipeline from Collection to Synthesis
 
 * A presentation for [Learning To Teach: (Re)Designing Creative Tech Pedagogy for the GenAI Era](https://wp.nyu.edu/ltt2026/) • #LTT2026
 * [Golan Levin](https://art.cmu.edu/people/golan-levin/), Carnegie Mellon University School of Art • Friday, January 16, 2026
@@ -15,7 +15,7 @@
 
 ### Talk Description
 
-This talk presents a multipart assignment from an upper-level undergraduate art course that asks students to engage the full ML image pipeline as a pedagogical framework, shifting generative AI practice away from prompt-centric use toward data-centric authorship. Students curate and assemble their own 500+ image datasets, visualize and interpret them using CNN embeddings with dimensionality reduction, and train custom LoRA models to resynthesize new images shaped by their data. The project emphasizes data sovereignty, ethical collection, typological thinking, and critical seeing, positioning datasets as both the site of meaning and the primary medium of creative agency.
+This talk reports on a multipart assignment from an upper-level undergraduate art course that asks students to engage the full ML image pipeline as a pedagogical framework, shifting generative AI practice away from prompt-centric use toward data-centric authorship. Students curate and assemble their own 500+ image datasets, visualize and interpret them using CNN embeddings with dimensionality reduction, and train custom LoRA models to resynthesize new images shaped by their data. The project emphasizes data sovereignty, ethical collection, typological thinking, and critical seeing, positioning datasets as both the site of meaning and the primary medium of creative agency.
 
 ### Biography
 
