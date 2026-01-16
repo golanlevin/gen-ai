@@ -8,6 +8,7 @@ Prof. Golan Levin, CMU School of Art
 ## Key Links
 
 * The Syllabus can be found [here](https://github.com/golanlevin/gen-ai/blob/main/syllabus/readme.md)
+* A presentation for #LTT2026 can be found [here](ltt2026/readme.md)
 
 ## Daily Notes
 
